@@ -1,1 +1,1 @@
-# DEAW
+Archivo README para la práctica de Git y GitHub
